@@ -28,7 +28,7 @@ Where I can continue turning innovative business ideas into powerful software so
 | 🧩 Architecture         | Microservices, RESTful APIs                                                        |
 | ⚙️ DevOps & CI/CD       | Azure DevOps, GitHub Enterprise, Docker                                            |
 | 🌐 Frontend Frameworks  | Angular, React (Hooks, Concurrent Rendering)                                      |
-| ☁️ Cloud Infrastructure | Microsoft Azure                                                                   |
+| ☁️ Cloud Infrastructure | Microsoft Azure, AWS                                                                   |
 | 🔐 App Security         | SonarQube, Blackduck, Checkmarx                                                    |
 | 🧠 Productivity         | GitHub Copilot integrated with **VSCode** and **IntelliJ** for generative AI coding |
 
