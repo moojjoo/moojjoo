@@ -1,7 +1,45 @@
 # Robert "Moojjoo" Bruce Dannelly, Jr.
 
-Dedicated to fostering collaboration, adhering to best practices, and delivering impactful technological solutions for financial services. Passionate about driving innovation and maintaining security in enterprise software development.
+# 👋 Hi, I'm Robert — Senior Software Engineer
 
-I am open currently for 1)remote, 2)hybrid positions in the Charlotte NC surrounding area (See map - https://goo.gl/45ewvA) to continue my passion in Software Engineering/Development providing solutions to problems and business ideas.  My last project as a Senior Software Engineer at Wells Fargo with over five years of experience designing and deploying secure, enterprise-grade applications using Wells Fargo Enterprise Pipeline. Contributed to the development of proprietary Java/Spring, Microsoft Azure solutions for commercial banking, ensuring compliance with Wells Fargo's Application Security (Blackduck, Checkmarx, and SonarQube code coverage. Proficient in Agile methodologies, .NET, Java, Spring Boot, and microservices, with a focus on delivering scalable and secure software.  
+Dedicated to building **secure**, **scalable**, and **impactful** technology for financial services and enterprise platforms. I bring over 25 years of engineering experience, with a deep focus on **enterprise-grade software solutions**, **cloud development**, and **secure application architecture**.
 
-Expertise includes leveraging tools like Visual Studio, VSCode, IntelliJ, Eclipse, Azure DevOps, GitHub Enterprise, and CI/CD to facilitate seamless deployments and enhance system functionality.
+## 🔍 Currently Open to Opportunities
+
+I'm actively seeking:
+
+- 📡 **Remote**
+- 🏙️ **Hybrid roles** in the **Charlotte, NC area** ([View Map](https://goo.gl/45ewvA))
+
+Where I can continue turning innovative business ideas into powerful software solutions.
+
+## 💼 Most Recent Role: Senior Software Engineer @ Wells Fargo
+
+- 🏗️ Designed and deployed **secure commercial banking applications** within the **Wells Fargo Enterprise Pipeline**
+- ☁️ Built scalable solutions using **Java/Spring** and **Microsoft Azure**
+- 🛡️ Ensured security and compliance using **Blackduck**, **Checkmarx**, and **SonarQube**
+- 🔄 Delivered continuously through **CI/CD pipelines** via **Azure DevOps** and **GitHub Enterprise**
+
+## ⚙️ Tech Expertise
+
+| Area                    | Tools & Frameworks                                                                 |
+|-------------------------|------------------------------------------------------------------------------------|
+| 💻 Backend Development  | Java, Spring Boot, .NET Core                                                       |
+| 🧩 Architecture         | Microservices, RESTful APIs                                                        |
+| ⚙️ DevOps & CI/CD       | Azure DevOps, GitHub Enterprise, Docker                                            |
+| 🌐 Frontend Frameworks  | Angular, React (Hooks, Concurrent Rendering)                                      |
+| ☁️ Cloud Infrastructure | Microsoft Azure                                                                   |
+| 🔐 App Security         | SonarQube, Blackduck, Checkmarx                                                    |
+| 🧠 Productivity         | GitHub Copilot integrated with **VSCode** and **IntelliJ** for generative AI coding |
+
+## 🔁 Working Style
+
+- ✔️ Agile methodologies
+- 💬 Strong collaboration & cross-functional communication
+- 🔎 Analytical mindset with a deep focus on code quality and performance
+- 🚀 Always exploring ways to improve development velocity using automation and AI
+
+---
+
+📫 **Let’s connect!**  
+If you're looking for a results-driven engineer who fuses modern tools with deep experience—I’d love to chat.
