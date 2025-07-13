@@ -1,6 +1,6 @@
 # Robert "Moojjoo" Bruce Dannelly, Jr.
 
-# 👋 Hi, I'm Robert — Passionate Software Engineer
+# 👋 Hi, I'm Robert — Passionate Software Engineer - ([RESUME](https://goo.gl/BrujGq))
 
 Dedicated to building **secure**, **scalable**, and **impactful** technology for multiple business services and enterprise platforms. I bring over 25 years of engineering experience, with a deep focus on **enterprise-grade software solutions**, **cloud development**, and **secure application architecture**.
 
@@ -25,19 +25,19 @@ Where I can continue turning innovative business ideas into powerful software so
 | Area                    | Tools & Frameworks                                                                 |
 |-------------------------|------------------------------------------------------------------------------------|
 | 💻 Backend Development  | Java, Spring Boot, .NET Core                                                       |
-| 🧩 Architecture         | Microservices, RESTful APIs                                                        |
+| 🧩 Architecture         | Monolithic, Microservices, RESTful APIs                                            |
 | ⚙️ DevOps & CI/CD       | Azure DevOps, GitHub Enterprise, Docker                                            |
-| 🌐 Frontend Frameworks  | Angular, React (Hooks, Concurrent Rendering)                                      |
-| ☁️ Cloud Infrastructure | Microsoft Azure, AWS                                                                   |
+| 🌐 Frontend Frameworks  | Angular, React (Hooks, Concurrent Rendering)                                       |
+| ☁️ Cloud Infrastructure | AWS, Microsoft Azure, GCP                                                          |
 | 🔐 App Security         | SonarQube, Blackduck, Checkmarx                                                    |
-| 🧠 Productivity         | GitHub Copilot integrated with **VSCode** and **IntelliJ** for generative AI coding |
+| 🧠 Productivity         | GitHub Copilot with **VSCode** and **IntelliJ** for generative AI coding           |
 
 ## 🔁 Working Style
 
 - ✔️ Agile methodologies
 - 💬 Strong collaboration & cross-functional communication
 - 🔎 Analytical mindset with a deep focus on code quality and performance
-- 🚀 Always exploring ways to improve development velocity using automation and AI
+- 🚀 Always exploring ways to **improve development velocity using automation and AI**
 
 ---
 
