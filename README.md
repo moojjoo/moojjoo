@@ -9,7 +9,7 @@ Dedicated to building **secure**, **scalable**, and **impactful** technology for
 I'm actively seeking:
 
 - 📡 **Remote**
-- 🏙️ **Hybrid roles** in the **Charlotte, NC area** ([View Map](https://goo.gl/45ewvA))
+- 🏙️ **Hybrid roles/Full Time roles** in the **Charlotte, NC area** ([View Map](https://goo.gl/45ewvA))
 
 Where I can continue turning innovative business ideas into powerful software solutions.
 
