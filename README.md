@@ -1,8 +1,8 @@
 # Robert "Moojjoo" Bruce Dannelly, Jr.
 
-# 👋 Hi, I'm Robert — Passionate Software Engineer - [RESUME](https://goo.gl/BrujGq).  Please buy me a [cup of coffee](https://ko-fi.com/moojjoo) so I can keep my skills up-to-date.
+# 👋 Hi, I'm Robert "Moojjoo" — Passionate Software Engineer - [RESUME](https://goo.gl/BrujGq).  Please buy me a [cup of coffee](https://ko-fi.com/moojjoo) so I can keep my skills up-to-date.
 
-Dedicated to building **secure**, **scalable**, and **impactful** technology for multiple business services and enterprise platforms. I bring over 25 years of engineering experience, with a deep focus on **enterprise-grade software solutions**, **cloud development**, and **secure application architecture**.
+Dedicated to building **secure**, **scalable**, and **impactful** technology for multiple business services and enterprise platforms. I bring over 25+ years of engineering experience, with a deep focus on **enterprise-grade software solutions**, **cloud development**, and **secure application architecture**.
 
 ## 🔍 Currently Open to Opportunities
 
