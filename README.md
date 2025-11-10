@@ -6,6 +6,10 @@ Dedicated to building **secure**, **scalable**, and **impactful** technology for
 
 ## 🔍 Currently Open to Opportunities
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/f6a137ab-5efd-461d-aed4-c223de8f89c2/thumbnail" >
+</p>
+
 I'm actively seeking:
 
 - 📡 **Remote**
