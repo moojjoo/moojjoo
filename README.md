@@ -41,7 +41,7 @@ Where I can continue turning innovative business ideas into powerful software so
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/f6a137ab-5efd-461d-aed4-c223de8f89c2/thumbnail" >
 </p>
 
