@@ -6,10 +6,6 @@ Dedicated to building **secure**, **scalable**, and **impactful** technology for
 
 ## 🔍 Currently Open to Opportunities
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/f6a137ab-5efd-461d-aed4-c223de8f89c2/thumbnail" >
-</p>
-
 I'm actively seeking:
 
 - 📡 **Remote**
@@ -42,6 +38,12 @@ Where I can continue turning innovative business ideas into powerful software so
 - 💬 Strong collaboration & cross-functional communication
 - 🔎 Analytical mindset with a deep focus on code quality and performance
 - 🚀 Always exploring ways to **improve development velocity using automation and AI**
+
+---
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/f6a137ab-5efd-461d-aed4-c223de8f89c2/thumbnail" >
+</p>
 
 ---
 
