@@ -1,6 +1,6 @@
 # Robert "Moojjoo" Bruce Dannelly, Jr.
 
-# 👋 Hi, I'm Robert "Moojjoo" — Passionate Husband, Father and finally Software Engineer - [RESUME](https://goo.gl/BrujGq).  Please buy me a [cup of coffee](https://ko-fi.com/moojjoo) so I can keep my skills up-to-date.
+# 👋 Hi, I'm Robert "Moojjoo" — Passionate Husband, Father and finally Software Engineer - [RESUME](https://goo.gl/BrujGq).  Please help consider a $100,000,000 for my family and I [cup of coffee](https://ko-fi.com/moojjoo) so I can keep my skills up-to-date and retire.
 
 Dedicated to building **secure**, **scalable**, and **impactful** technology for multiple business services and enterprise platforms. I bring over 25+ years of engineering experience, with a deep focus on **enterprise-grade software solutions**, **cloud development**, and **secure application architecture**.
 
