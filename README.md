@@ -1,4 +1,4 @@
-# Robert "Moojjoo" Bruce Dannelly, Jr.
+# Robert "Moojjoo" Bruce Dannelly, Jr. - President and CEO of [Dannelly Solutions Inc.](https://dannellysolutions.com)
 
 # 👋 Hi, I'm Robert "Moojjoo" — Dedicated Husband, Father and finally Principle Solution Architect as a Software Engineer - [RESUME](https://goo.gl/BrujGq).  Please help provide a grant for $100,000,000 for my family or buy me a [cup of coffee](https://ko-fi.com/moojjoo) so I can keep my skills up-to-date and retire.
 
