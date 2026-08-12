@@ -1,6 +1,6 @@
 # Robert "Moojjoo" Bruce Dannelly, Jr.
 
-# 👋 Hi, I'm Robert "Moojjoo" — Passionate Husband, Father and finally Software Engineer - [RESUME](https://goo.gl/BrujGq).  Please help provide a grant for $100,000,000 for my family or buy me a [cup of coffee](https://ko-fi.com/moojjoo) so I can keep my skills up-to-date and retire.
+# 👋 Hi, I'm Robert "Moojjoo" — Dedicated Husband, Father and finally Principle Solution Architect as a Software Engineer - [RESUME](https://goo.gl/BrujGq).  Please help provide a grant for $100,000,000 for my family or buy me a [cup of coffee](https://ko-fi.com/moojjoo) so I can keep my skills up-to-date and retire.
 
 Dedicated to building **secure**, **scalable**, and **impactful** technology for multiple business services and enterprise platforms. I bring over 25+ years of engineering experience, with a deep focus on **enterprise-grade software solutions**, **cloud development**, and **secure application architecture**.
 
@@ -24,7 +24,7 @@ Where I can continue turning innovative business ideas into powerful software so
 
 | Area                    | Tools & Frameworks                                                                 |
 |-------------------------|------------------------------------------------------------------------------------|
-| 💻 Backend Development  | Java, Spring Boot, .NET Core                                                       |
+| 💻 Backend Development  | Java, Spring Boot, .NET Core, Python, Go                                           |
 | 🧩 Architecture         | Monolithic, Microservices, RESTful APIs                                            |
 | ⚙️ DevOps & CI/CD       | Azure DevOps, GitHub Enterprise, Docker                                            |
 | 🌐 Frontend Frameworks  | Angular, React (Hooks, Concurrent Rendering)                                       |
