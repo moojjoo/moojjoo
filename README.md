@@ -48,4 +48,4 @@ Where I can continue turning innovative business ideas into powerful software so
 ---
 
 📫 **Let’s connect!**  
-If you're looking for a results-driven engineer who fuses modern tools with deep experience—I’d love to chat.
+If you're looking for a results-driven engineer who fuses modern tools with deep experience—I’d love to chat. [Dannelly Solutions Inc.](https://dannellysolutions.com) Or find me on Discord as "Moojjoo"
