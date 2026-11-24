@@ -1,6 +1,6 @@
 # Robert Bruce Dannelly Jr. (Moojjoo)
 
-**Founder, President & CEO of [Dannelly Solutions Inc.](https://dannellysolutions.com) | Principal Software Engineer**
+**Principal Software Engineer & AI Solutions Architect | Founder, [Dannelly Solutions Inc.](https://dannellysolutions.com)**
 
 > Build with purpose. Deliver with integrity. Help people thrive.
 
